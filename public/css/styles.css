@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 .wrapper {
-  background-image: url(checkerboard.jpg);
+  background-image: url(images/site/checkerboard.jpg);
 }
 
 ul {
@@ -15,5 +15,11 @@ ul {
 }
 
 li{
-  display: inline;
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #021447;
 }
