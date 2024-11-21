@@ -4,3 +4,12 @@
 *:after {
   box-sizing: border-box;
 }
+.wrapper {
+  background-image: url(checkerboard.jpg);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
